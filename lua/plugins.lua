@@ -47,6 +47,7 @@ packer.startup(
     -- use("mhartington/formatter.nvim")
     -- 括号补全
     use("windwp/nvim-autopairs")
+    
 end)
 config = {
     display = {

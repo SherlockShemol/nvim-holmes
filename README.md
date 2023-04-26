@@ -94,7 +94,8 @@ Start Interface
 - [nvim-treesitter第三方功能模块及插件](https://github.com/nvim-treesitter/nvim-treesitter/wiki/Extra-modules-and-plugins) --未实现
 - [williamboman](https://github.com/williamboman)/**[mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)**     -- 提供LSP常见服务的配置方式
 - [williamboman](https://github.com/williamboman)/**[mason.nvim](https://github.com/williamboman/mason.nvim)**         -- 管理并自动安装Language Server
-- 
+- [hrsh7th ](https://github.com/hrsh7th)/**[nvim-cmp](https://github.com/hrsh7th/nvim-cmp)**  	                  -- 代码补全
+- [nshen ](https://github.com/nshen)/**[learn-neovim-lua](https://github.com/nshen/learn-neovim-lua)**             -- 括号补全         
 
 
 
